@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">FindMeApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_chat">Chats</string>
+    <string name="title_location">Location</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="email">Email: %s</string>
+    <string name="email_hint">john@mail.com</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="register_now">Register</string>
+    <string name="already_have_an_account_login_now">
+        <font color="#000000">Already have an account? </font>
+        <font color="#FF003D"> <b>Sign in</b></font>
+    </string>
+    <string name="don_t_have_an_account_register_now">
+        <font color="#000000">Don\'t have an account? </font>
+        <font color="#FF003D"><b>Sign up</b></font>
+    </string>
+    <string name="name">name</string>
+    <string name="name_placeholder">Enter your full name</string>
+    <string name="email_placeholder">Enter your email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="name_place_holder">Name: </string>
+    <string name="id">ID</string>
+    <string name="logout">Logout</string>
+    <string name="locate_with">Locate with FindMeApp</string>
+    <string name="welcome_to">Welcome to FindMeApp!</string>
+    <string name="track_the_e">Track the exact location of your loved ones at any given time with FindMeApp. Feel safe, feel secured, your safety is our priority.</string>
+    <string name="get_started">Get Started</string>
+    <string name="let_s_help_">Let’s help you stay connected to your loved ones</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="name_settings">Name: %s</string>
+    <string name="ok">Okay</string>
+</resources>
